@@ -1,0 +1,39 @@
+<table st-table="rowCollection" class="table table-striped" st-pipe="callServer">
+    <thead>
+    <tr>
+        <th lr-drag-src="headers" lr-drop-target="headers" st-sort="{{col}}" ng-repeat="col in columns" ng-bind="col"></th>
+    </tr>
+    <!--<tr>-->
+        <!--<th></th>-->
+        <!--<th>-->
+            <!--<input st-search="'firstName'" placeholder="search for firstname" class="input-sm form-control" type="search"/>-->
+        <!--</th>-->
+        <!--<th colspan="4">-->
+            <!--<input st-search placeholder="global search" class="input-sm form-control" type="search"/>-->
+        <!--</th>-->
+    <!--</tr>-->
+    </thead>
+    <tbody ng-show="!isLoading">
+    <tr ng-repeat="row in rowCollection">
+        <td st-ratio="5" cs-select="row"></td>
+        <td st-ratio="30">{{row.userId | uppercase}}</td>
+        <td st-ratio="30">{{row.userName | lowercase}}</td>
+        <td st-ratio="15">{{row.sexType}}</td>
+        <td st-ratio="15">
+            <!-- 操作 -->
+        </td>
+    </tr>
+    </tbody>
+    <tbody ng-show="isLoading">
+    <tr>
+        <td colspan="5" class="text-center">Loading ... </td>
+    </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <td colspan="5" class="text-center">
+            <div st-pagination="" st-items-by-page="1"></div>
+        </td>
+    </tr>
+    </tfoot>
+</table>

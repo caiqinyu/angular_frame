@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list id="3b49a1b4-b42b-486c-9a1e-d641a0a684a4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/appAdmin/FrameController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/appAdmin/template/Menu.tmp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/demo/demoModule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/spring/applicationContext.xml" afterPath="$PROJECT_DIR$/../resources/spring/applicationContext.xml" />
+    </list>
+    <list default="true" id="c747ebc4-5749-463e-82f4-09504bc03277" name="Failed commit: Default" comment="base web">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/appAdmin/template/404.tmp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/animation/Animation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/loadingEffect/Bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/loadingEffect/Base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/BezierCurve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/loadingEffect/Bubble.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/shape/Candle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/shape/Chain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/dataview/template/Chart01.tmp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/layout/Chord.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/animation/Clip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/shape/Cross.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/dataview/DataviewController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/demo/DemoController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Droplet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/loadingEffect/DynamicLine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/layout/EdgeBundling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Ellipse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/mixin/Eventful.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/layout/Force.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/demo/template/Func01.tmp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/demo/template/Func02.tmp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/shape/GaugePointer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/data/Graph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/Group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/shape/HalfSmoothPolygon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/shape/HandlePolygon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/Handler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Heart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/shape/Icon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Isogon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/data/KDTree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/Layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/appAdmin/template/LoginForm.tmp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/shape/MarkLine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/Painter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/util/PathProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Polygon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Polyline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Rectangle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/shape/Ribbon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/loadingEffect/Ring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Ring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Rose.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Sector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/ShapeBundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/appAdmin/template/SideBarItem.tmp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/loadingEffect/Spin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Star.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/Storage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/shape/Symbol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/mixin/Transformable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/data/Tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/layout/Tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/layout/TreeMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/Trochoid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/appAdmin/template/UserMenu.tmp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/loadingEffect/Whirling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/layout/WordCloud.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/layout/WordCloudRectZero.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/accMath.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/projection/albers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/an_hui_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/an_hui_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/angular-amd/angular-require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/angular-amd/angular-require.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/angular1/angular-route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/angular1/angular-route.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/angular-amd/angular-shiro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/angular-amd/angular-shiro.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/angular1/angular-ui-router.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/angular1/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/angular1/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/angular-amd/angularAMD.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/angular-amd/angularAMD.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/ao_men_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/ao_men_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/tool/area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/component/axis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/component/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/bei_jing_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/bei_jing_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/component/categoryAxis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/china_city.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/china_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/china_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/chong_qing_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/chong_qing_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/chord.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/tool/color.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/appAdmin/commonModule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/tool/computeBoundingBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/coordinates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/tool/curve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/util/dashedLineTo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/component/dataRange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/component/dataView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/component/dataZoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/dataview/dataviewModule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/theme/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/demo/demoService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/requirejs/domReady.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/animation/easing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/ecAnimation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/ecData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/ecEffect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/ecQuery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/dataview/echartDirective.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/echarts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/encode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/tool/env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/tool/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/eventRiver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/layout/eventRiver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/dep/excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/dep/excanvas2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/dep/excanvas3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/dist/css/fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/force.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/layout/forceLayoutWorker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/appAdmin/frameDirectives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/appAdmin/frameService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/fu_jian_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/fu_jian_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/funnel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/gan_su_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/gan_su_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/gauge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoCoord.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/component/grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/guang_dong_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/guang_dong_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/guang_xi_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/guang_xi_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/gui_zhou_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/gui_zhou_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/tool/guid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/hai_nan_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/hai_nan_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/he_bei_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/he_bei_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/he_nan_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/he_nan_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/heatmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/layer/heatmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/hei_long_jiang_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/hei_long_jiang_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/tool/http.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/hu_bei_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/hu_bei_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/hu_nan_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/hu_nan_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/theme/infographic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/island.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/ji_lin_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/ji_lin_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/jiang_su_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/jiang_su_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/jiang_xi_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/jiang_xi_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/tools/json2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/k.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/kwargs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/component/legend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/liao_ning_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/liao_ning_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/tool/log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WEB-INF/pages/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/smart-table/lrDragNDrop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/theme/macarons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/macro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/tool/math.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/tool/matrix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/projection/mercator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/ndarray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/nei_meng_gu_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/nei_meng_gu_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/angular-amd/ngload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/angular-amd/ngload.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/ning_xia_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/ning_xia_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/projection/normal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/shape/normalIsCover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/params.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/component/polar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/qing_hai_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/qing_hai_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/data/quickSelect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/radar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/requirejs/require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/component/roamController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/scatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/shan_dong_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/shan_dong_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/shan_xi_1_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/shan_xi_1_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/shan_xi_2_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/shan_xi_2_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/shang_hai_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/shang_hai_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/si_chuan_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/si_chuan_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/smart-table/smart-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/smart-table/smart-table.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/smart-table/smart-table.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/smartLogSteps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/smartSteps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/util/smoothBezier.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/shape/util/smoothSpline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/startup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/projection/svg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/tai_wan_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/tai_wan_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/textFixed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/tian_jin_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/tian_jin_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/component/timeline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/component/title.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/component/toolbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/component/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/treemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/ui-bootstrap/ui-bootstrap-custom-tpls-0.14.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/ui-bootstrap/ui-bootstrap-custom-tpls-0.14.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/tools/underscore-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/tool/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/component/valueAxis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/tool/vector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/venn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/chart/wordCloud.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/world_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/world_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/xi_zang_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/xi_zang_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/xiang_gang_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/xiang_gang_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/xin_jiang_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/xin_jiang_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/yun_nan_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/yun_nan_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/geoJson/zhe_jiang_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/echarts/util/mapData/rawData/geoJson/zhe_jiang_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/components/zrender/zrender.js" />
+      <change type="DELETED" beforePath="D:\workspace\iframe\frame-web\src\main\webapp\WEB-INF\pages\frame\demo\demo-index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\iframe\frame-web\src\main\webapp\WEB-INF\pages\frame\demo\demo-index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\iframe\frame-web\src\main\webapp\index.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions/demo/DemoController.js" afterPath="$PROJECT_DIR$/functions/demo/DemoController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEB-INF/pages/index.html" afterPath="$PROJECT_DIR$/WEB-INF/pages/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/WEB-INF/web.xml" />
+    </list>
+    <ignored path="webapp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <file path="$PROJECT_DIR$/functions/appAdmin/FrameController.js" ignored="true" />
+    <file path="$PROJECT_DIR$/functions/appAdmin/template/Menu.tmp.html" ignored="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="webapp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="49" column="50" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Func01.tmp.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/demo/template/Func01.tmp.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.285714">
+              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Func02.tmp.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/demo/template/Func02.tmp.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.571428">
+              <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrameController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/appAdmin/FrameController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataviewController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/dataview/DataviewController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/init.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="echartDirective.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/dataview/echartDirective.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demoService.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/demo/demoService.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoController.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/functions/demo/DemoController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.72625697">
+              <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chart01.tmp.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/dataview/template/Chart01.tmp.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Html5" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/functions/demo/controller/module.js" />
+        <option value="$PROJECT_DIR$/functions/demo/controller/index.js" />
+        <option value="$PROJECT_DIR$/functions/demo/controller/demoController.js" />
+        <option value="$PROJECT_DIR$/functions/common/controller/frameController.js" />
+        <option value="$PROJECT_DIR$/functions/common/directive/SideBarItem.js" />
+        <option value="$PROJECT_DIR$/functions/common/frameDirectives.js" />
+        <option value="$PROJECT_DIR$/functions/common/frameService.js" />
+        <option value="$PROJECT_DIR$/functions/demo/demoController.js" />
+        <option value="$PROJECT_DIR$/functions/common/template/SideBarItem.tmp.html" />
+        <option value="$PROJECT_DIR$/functions/common/frameController.js" />
+        <option value="$PROJECT_DIR$/functions/common/commonModule.js" />
+        <option value="$PROJECT_DIR$/functions/common/template/menu.tmp.html" />
+        <option value="$PROJECT_DIR$/functions/lazyProvider.js" />
+        <option value="$PROJECT_DIR$/functions/common/FrameController.js" />
+        <option value="$PROJECT_DIR$/functions/route.js" />
+        <option value="$PROJECT_DIR$/functions/appAdmin/commonModule.js" />
+        <option value="$PROJECT_DIR$/functions/startup.js" />
+        <option value="$PROJECT_DIR$/functions/appAdmin/template/mainpage.tmp.html" />
+        <option value="$PROJECT_DIR$/functions/appAdmin/template/SideBarItem.tmp.html" />
+        <option value="$PROJECT_DIR$/functions/demo/DemoModule.js" />
+        <option value="$PROJECT_DIR$/platform/dist/js/app.js" />
+        <option value="$PROJECT_DIR$/WEB-INF/pages/login.html" />
+        <option value="$PROJECT_DIR$/functions/appAdmin/template/loginForm.tml.html" />
+        <option value="$PROJECT_DIR$/functions/appAdmin/template/LoginForm.tml.html" />
+        <option value="$PROJECT_DIR$/functions/appAdmin/template/LoginForm.tmp.html" />
+        <option value="$PROJECT_DIR$/functions/appAdmin/template/UserMenu.tmp.html" />
+        <option value="$PROJECT_DIR$/functions/appAdmin/frameDirectives.js" />
+        <option value="$PROJECT_DIR$/WEB-INF/pages/index.html" />
+        <option value="$PROJECT_DIR$/functions/appAdmin/frameService.js" />
+        <option value="$PROJECT_DIR$/functions/demo/template/Func01.tmp.html" />
+        <option value="$PROJECT_DIR$/functions/demo/demoModule.js" />
+        <option value="$PROJECT_DIR$/common/components/smart-table/lrDragNDrop.js" />
+        <option value="$PROJECT_DIR$/platform/dist/css/AdminLTE.css" />
+        <option value="$PROJECT_DIR$/common/components/smart-table/smart-table.js" />
+        <option value="$PROJECT_DIR$/functions/demo/template/Func02.tmp.html" />
+        <option value="$PROJECT_DIR$/functions/demo/demoService.js" />
+        <option value="$PROJECT_DIR$/functions/app.js" />
+        <option value="$PROJECT_DIR$/functions/init.js" />
+        <option value="$PROJECT_DIR$/functions/dataview/dataviewDirectives.js" />
+        <option value="$PROJECT_DIR$/functions/appAdmin/template/EChart.tmp.html" />
+        <option value="$PROJECT_DIR$/functions/dataview/EchartDirective.js" />
+        <option value="$PROJECT_DIR$/functions/dataview/template/Func01.tmp.html" />
+        <option value="$PROJECT_DIR$/functions/appAdmin/template/Menu.tmp.html" />
+        <option value="$PROJECT_DIR$/functions/dataview/DemoController.js" />
+        <option value="$PROJECT_DIR$/functions/dataview/dataviewModule.js" />
+        <option value="$PROJECT_DIR$/functions/dataview/template/Echart.tmp.html" />
+        <option value="$PROJECT_DIR$/functions/dataview/DataviewController.js" />
+        <option value="$PROJECT_DIR$/functions/dataview/echartDirective.js" />
+        <option value="$PROJECT_DIR$/functions/dataview/template/Chart01.tmp.html" />
+        <option value="$PROJECT_DIR$/functions/appAdmin/FrameController.js" />
+        <option value="$PROJECT_DIR$/functions/demo/DemoController.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appAdmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appAdmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/workfolder/live and learn/react/react-demo-master" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FullScreen" value="false" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="JavaScriptLanguageLevel" value="JSX" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\iframe\frame-web\src\main\webapp\functions\dataview" />
+      <recent name="D:\workspace\iframe\frame-web\src\main\webapp\functions\dataview\template" />
+      <recent name="D:\workspace\iframe\frame-web\src\main\webapp\functions\appAdmin\template" />
+      <recent name="D:\workspace\iframe\frame-web\src\main\webapp\common\components\zrender" />
+      <recent name="D:\workspace\iframe\frame-web\src\main\webapp\common\components\echarts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\iframe\frame-web\src\main\webapp\common\angular-amd" />
+      <recent name="D:\workspace\iframe\frame-web\src\main\webapp\functions\common" />
+      <recent name="D:\workspace\iframe\frame-web\src\main\webapp\functions\common\directive\template" />
+      <recent name="D:\workspace\iframe\frame-web\src\main\webapp\functions" />
+      <recent name="D:\workspace\iframe\frame-web\src\main\webapp\functions\common\directive" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b49a1b4-b42b-486c-9a1e-d641a0a684a4" name="Default" comment="" />
+      <created>1447059882657</created>
+      <option name="number" value="Default" />
+      <updated>1447059882657</updated>
+    </task>
+    <task id="LOCAL-00001" summary="base web">
+      <created>1451983335937</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1451983335937</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23257288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2671141" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17583893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.347651" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="base web" />
+    <option name="LAST_COMMIT_MESSAGE" value="base web" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/functions/dataview/template/Chart01.tmp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/demo/DemoController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/demo/demoModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/dist/css/skins/skin-purple.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0111732">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/dist/css/AdminLTE.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058139537">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/angular-amd/ngload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30726257">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/angular1/angular-ui-router.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3895349">
+          <caret line="6" column="15617" selection-start-line="6" selection-start-column="15599" selection-end-line="6" selection-end-column="15617" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/angular-amd/angularAMD.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.083798885">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/angular-amd/angular-require.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/angular-amd/angularAMD.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="141" column="36" selection-start-line="141" selection-start-column="30" selection-end-line="141" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/angular-amd/angular-require.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3575419">
+          <caret line="68" column="25" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/dist/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38826814">
+          <caret line="634" column="77" selection-start-line="634" selection-start-column="77" selection-end-line="634" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/tools/json2.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="46" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/tools/underscore-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0813954">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/angular-amd/angular-shiro.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/dist/css/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6396648">
+          <caret line="154" column="35" selection-start-line="154" selection-start-column="35" selection-end-line="154" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/components/ui-bootstrap/ui-bootstrap-custom-tpls-0.14.3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/components/smart-table/smart-table.min.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/components/smart-table/lrDragNDrop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/dist/css/AdminLTE.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21656977">
+          <caret line="4492" column="20" selection-start-line="4492" selection-start-column="20" selection-end-line="4492" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/components/smart-table/smart-table.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/components/smart-table/smart-table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="245" column="19" selection-start-line="245" selection-start-column="16" selection-end-line="245" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/startup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/plugins/ckeditor/plugins/dialog/dialogDefinition.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/components/echarts/util/shape/Icon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/components/zrender/animation/Clip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.1396648">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/appAdmin/frameDirectives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/pages/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.857142">
+          <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/appAdmin/template/404.tmp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.428572">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/appAdmin/commonModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/demo/demoModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/appAdmin/template/LoginForm.tmp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.428572">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/appAdmin/template/Menu.tmp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="43" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/appAdmin/template/SideBarItem.tmp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4285715">
+          <caret line="2" column="87" selection-start-line="2" selection-start-column="82" selection-end-line="2" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/appAdmin/template/UserMenu.tmp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.857143">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/dataview/dataviewModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/appAdmin/frameService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="38" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="124" column="68" selection-start-line="124" selection-start-column="68" selection-end-line="124" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/dataview/template/Chart01.tmp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/angular1/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="415.19553">
+          <caret line="14864" column="10" selection-start-line="14864" selection-start-column="10" selection-end-line="14864" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/angular1/angular-route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25139666">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/appAdmin/FrameController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/dataview/DataviewController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="50" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/demo/template/Func02.tmp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.571428">
+          <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/demo/template/Func01.tmp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.285714">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/dataview/echartDirective.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/demo/demoService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/demo/DemoController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.72625697">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

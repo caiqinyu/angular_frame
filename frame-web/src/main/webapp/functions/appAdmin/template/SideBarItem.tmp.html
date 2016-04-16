@@ -1,0 +1,9 @@
+<ul class="sidebar-menu">
+    <li class="header" ng-bind="title"></li>
+    <li ng-class="selectFuncId == func.funcId ? 'active' : ''" ng-repeat="func in funcs">
+        <a href="#" ng-click="funcClick(func)">
+            <i class="fa fa-link"></i>
+            <span ng-bind="func.funcNm"></span>
+        </a>
+    </li>
+</ul>
